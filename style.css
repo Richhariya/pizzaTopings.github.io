@@ -1,0 +1,66 @@
+body{
+    background-image: url("img.jpg");
+}
+
+.main-wrapper{
+    margin:  20px auto;
+    width: 600px;
+}
+
+#head-tag-1{
+    display: none;
+}
+
+#head-tag{
+    font-size: 50px;
+    text-align: center;
+    color:   Red
+}
+
+.fix{
+    margin-top: 20px;
+}
+.form-label{
+    font-size: 20px;
+    color: red;
+}
+#button1{
+    margin-left: 50%;
+    border-radius: 5px;
+    color: red;
+}
+
+.flex-container img{
+    width: 150px;
+    height: auto;
+}
+
+.flex-container{
+    text-align: center;
+}
+
+
+.status{
+    text-align: center;
+    margin-top: 8px;
+}
+
+.order-status-wrapper{
+    margin-top: 20px;
+    padding: 20px 35px 20px 20px;
+    
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+.order-status-block{
+    width: 100%;
+    margin: 10px;
+    pointer-events: none;
+}
+
+#lastMessage{
+    display: block;
+    margin: 50px;
+}
+
